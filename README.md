@@ -47,6 +47,15 @@ This repository contains a template for creating a Tetris game using HTML, CSS, 
 - **Toggle Music**: Click the "Toggle Music" button.
 
 ## Screenshots
-![image](https://github.com/BaranDev/Tetris-Game-Template/assets/67805576/a35ef2ee-b40e-411b-ab85-bae27ef04d27)
-![image](https://github.com/BaranDev/Tetris-Game-Template/assets/67805576/34b94994-eebe-4d38-80fb-459a7180005e)
 
+###
+
+<div style="display: flex;" align="center">
+   <img src="https://github.com/BaranDev/Tetris-Game-Template/assets/67805576/a35ef2ee-b40e-411b-ab85-bae27ef04d27" style="width: 80%; padding="10px";" />
+   <img src="https://github.com/BaranDev/Tetris-Game-Template/assets/67805576/34b94994-eebe-4d38-80fb-459a7180005e" style="width: 80%; padding="10px";" />
+</div>
+
+###
+
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/barandev/Tetris-Game-Template?label=Repo%20Size)](https://github.com/barandev/Tetris-Game-Template)
+[![License](https://img.shields.io/github/license/barandev/Tetris-Game-Template)](https://github.com/barandev/Tetris-Game-Template/blob/main/LICENSE)
