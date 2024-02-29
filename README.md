@@ -57,5 +57,11 @@ This repository contains a template for creating a Tetris game using HTML, CSS, 
 
 ###
 
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/barandev/Tetris-Game-Template?label=Repo%20Size)](https://github.com/barandev/Tetris-Game-Template)
+![GitHub language count](https://img.shields.io/github/languages/count/barandev/Tetris-Game-Template)
+![GitHub repo size](https://img.shields.io/github/repo-size/barandev/Tetris-Game-Template)
 [![License](https://img.shields.io/github/license/barandev/Tetris-Game-Template)](https://github.com/barandev/Tetris-Game-Template/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/barandev/Tetris-Game-Template)](https://github.com/barandev/Tetris-Game-Template/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/barandev/Tetris-Game-Template)](https://github.com/barandev/Tetris-Game-Template/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/barandev/Tetris-Game-Template)](https://github.com/barandev/Tetris-Game-Template/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/barandev/Tetris-Game-Template)](https://github.com/barandev/Tetris-Game-Template/network)
+
